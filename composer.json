@@ -1,0 +1,17 @@
+{
+    "name": "drupal/auto_entitylabel",
+    "description": "Allows hiding of entity label fields and automatic label creation.",
+    "type": "drupal-module",
+    "homepage": "https://www.drupal.org/project/auto_entitylabel",
+    "support": {
+        "issues": "https://github.com/Jaesin/auto_entitylabel/issues",
+        "source": "https://github.com/Jaesin/auto_entitylabel"
+    },
+    "license": "GPL-2.0+",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packagist.drupal-composer.org"
+        }
+    ]
+}
